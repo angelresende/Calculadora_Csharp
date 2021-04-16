@@ -1,0 +1,10 @@
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\obj\Debug\Calculadora.FormPrincipal.resources
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\angelica.araujo\Documents\Faculdade\Csharp\Calculadora\obj\Debug\Calculadora.pdb

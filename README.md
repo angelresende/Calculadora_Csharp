@@ -6,5 +6,5 @@
 <h2>
 
 <h2 align="center">
-<img alt="layout" src= "https://github.com/angelresende/Calculadora_Csharp/blob/main/Layout.PNG" width="550px">
+<img alt="layout" src= "https://github.com/angelresende/Calculadora_Csharp/blob/main/Layout.PNG" width="300px">
 </h2>

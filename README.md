@@ -1,6 +1,6 @@
 # Calculadora em C#.
 
-<p>Calculadora com as operações básicas, desenvolvida na linguagem C#, com o framework dotnet (.Net).</p>
+<p>Calculadora com as operações básicas, desenvolvida na linguagem C#, com o aplicativo Windows Form (.Net Framework).</p>
 
 <h2 align="center" style="color:black"> Layout da Interface
 <h2>
